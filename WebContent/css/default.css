@@ -1,0 +1,10 @@
+#footerTable{
+	border: 1px solid #666;
+	width: 100%;
+	margin: 3px 0 20px 0 !important;
+}
+.footertable_oddrow{
+	text-align:left;
+}.footertable_oddeven{
+	text-align:right;
+}

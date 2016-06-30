@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" id="WebApp_ID" version="3.0">
+  <display-name>preva_Fuel</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+  
+  <servlet>
+    <description></description>
+    <display-name>FuelProcess</display-name>
+    <servlet-name>FuelProcess</servlet-name>
+    <servlet-class>com.preva.controller.FuelProcess</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>FuelProcess</servlet-name>
+    <url-pattern>/FuelProcess</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>FuelDBProcess</display-name>
+    <servlet-name>FuelDBProcess</servlet-name>
+    <servlet-class>com.preva.controller.FuelDBProcess</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>FuelDBProcess</servlet-name>
+    <url-pattern>/FuelDBProcess</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>FuelSummaryProcess</display-name>
+    <servlet-name>FuelSummaryProcess</servlet-name>
+    <servlet-class>com.preva.controller.FuelSummaryProcess</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>FuelSummaryProcess</servlet-name>
+    <url-pattern>/FuelSummaryProcess</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>FuelSummaryDBProcess</display-name>
+    <servlet-name>FuelSummaryDBProcess</servlet-name>
+    <servlet-class>com.preva.controller.FuelSummaryDBProcess</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>FuelSummaryDBProcess</servlet-name>
+    <url-pattern>/FuelSummaryDBProcess</url-pattern>
+  </servlet-mapping>
+  
+</web-app>

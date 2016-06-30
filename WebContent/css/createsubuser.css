@@ -1,0 +1,382 @@
+.topheader, .advviewheader {
+	font-family: verdana;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #005596;
+}
+.topheadr {
+	font-weight: bold;
+	font-family: verdana;
+	font-size: 12px;
+	color: #FFFFFF;
+	background-color: #005596;
+}
+.advsearch {
+	font-family: verdana;
+	font-size: 10px;
+	color: #FFFFFF;
+	background-color: #005596;
+}
+.secondhedr, .advviewsubheader {
+	font-family: verdana;
+	font-size: 10px;
+	color: #FFFFFF;
+	background-color: #005596;
+	font-weight: bold;
+}
+.oddrow, advviewtextrow {
+	font-family: verdana;
+	font-size: 11px;
+	color: #000000;
+	background-color: #D4E0EE;
+}
+
+.advviewtable {
+	border-collapse: collapse; 
+	border: 1px solid #FFFFFF;
+}
+
+.parkedrow{
+	background-color: #FDE8AF;
+}
+
+.advviewsubheadercol{
+	text-align: left;
+}
+
+.sosrow {
+	font-family: verdana;
+	font-size: 11px;
+	color: #000000;
+	background-color: #FF5555;
+	
+}
+.blur {
+	font-family: verdana;
+	font-size: 11px;
+	color: #000000;
+	background-color: #F5F1E6;
+	
+}
+
+.evenrow, .advviewtextrow2 {
+	font-family: verdana;
+	font-size: 11px;
+	color: #000000;
+	background-color: #D4E0EE;
+
+}
+
+.pgrow {
+	font-family: verdana;
+	font-size: 11px;
+	color: #FFFFFF;
+	background-color: #005596;
+
+}
+.txtverytiny {
+	font-family: Verdana;
+	font-size: 11px;
+	color: #000000;
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	width: 30px;
+	}
+.txtverysmall {
+	font-family: Verdana;
+	font-size: 11px;
+	color: #000000;
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	width: 40px;
+	}
+.txtsmall {
+	font-family: Verdana;
+	font-size: 11px;
+	color: #000000;
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	width: 80px;
+}
+.txtmed {
+	font-family: Verdana;
+	font-size: 11px;
+	color: #000000;
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	width: 135px;
+}
+.txtbig, .txtminbig {
+	font-family: Verdana;
+	font-size: 11px;
+	color: #000000;
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+}
+
+.txtbig{
+	width: 155px;
+}
+
+.txtminbig{
+	min-width: 155px;
+}
+
+.txtverybig {
+	font-family: Verdana;
+	font-size: 11px;
+	color: #000000;
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	width: 210px;
+}
+.txtveryverybig {
+	font-family: Verdana;
+	font-size: 11px;
+	color: #000000;
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	width: 310px;
+}
+.txtdigit {
+
+	font-family: Verdana;
+	font-size: 11px;
+	color: #000000;
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	width: 32px;
+}
+.txtphone {
+	font-family: Verdana;
+	font-size: 11px;
+	color: #000000;
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	width: 120px;
+	}
+.tabbrdr {
+	border: 1px solid #5F5429;
+}
+.smsred {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: FF0000;
+	font-weight: bold;
+}
+.txttall {
+	font-family: Verdana;
+	font-size: 11px;
+	color: #000000;
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	width: 152px;
+	height: 85px;
+}
+.button1 {
+	font-family: verdana;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #005596;
+	border: 2px solid #DFDFC5;
+}
+.smallbutton {
+	font-family: verdana;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #6787BA;
+	border: 2px solid #DFDFC5
+	
+}
+
+.loginbutton {
+	font-family: verdana;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #6787BA;
+	border: 2px solid #DFDFC5
+	width:60px; 
+	height:20;
+}
+
+.deliveredrow {
+	font-family: verdana;
+	font-size: 10px;
+	color: #333333;
+	background-color: #D3E3F3;
+}
+.deliveredrowborder {
+	border-color: #FF0000;
+	font-family: verdana;
+	font-size: 10px;
+	color: #333333;
+	background-color: #D3E3F3;
+}
+.lrnumber {
+	font-family: verdana;
+	font-size: 10px;
+	color: #003399;
+}
+.textStyle {
+	font-family: verdana;
+	font-size: 20px;
+	color: black;
+}
+.textStyle1 {
+	font-family: verdana;
+	font-size: 15px;
+	color: black;
+	font-weight: bold;
+}
+.boldStyle {
+	font-family: verdana;
+	font-size: 15px;
+	color: #003399;
+	font-weight: bold;
+}
+.arrowStyle{
+	font-size: 14px;
+}
+.imageTextStyle{
+	font-family: verdana;
+	font-size: 10px;
+	color: #333333;
+}
+.buttonStyle{
+	font-family: verdana;
+	font-size: 10px;
+	color: #FCFCF0;
+	font-weight: bold;
+	background-color: #005596;
+	border: 2px solid #DFDFC0;
+}
+.bracketStyle{
+	font-family: verdana;
+	font-size: 11px;
+	color: #A8A182;
+}
+.linkStyle{
+	font-family: verdana;
+	font-size: 10px;
+	color: #000099;
+	font-weight: bold;
+}
+
+.linkStyleOn{
+	font-family: verdana;
+	font-size: 10px;
+	color: RED;
+	font-weight: bold;
+}
+
+.tableColor{
+	background-color: #DFDFC0;
+}
+
+.tableStyle{
+	border-color: #FFFFFF;
+}
+
+.blank {
+	background-color: #FFFFFF;
+}
+
+.overspeedrow {
+	font-family: verdana;
+	font-size: 11px;
+	color: #000000;
+	background-color: #FF7F55;	
+}
+
+.stoppedrow {
+	font-family: verdana;
+	font-size: 11px;
+	color: #000000;
+	background-color: #FFFFD4;
+}
+
+.text1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+}
+
+.reportSearchBorder {
+	border-top: 1px solid #FFCD44; 
+	border-right: 1px solid #FFCD44; 
+	border-bottom: 1px solid #FFCD44; 
+	border-left: 1px solid #FFCD44;
+}
+
+.imageIconStyle{
+	color: black;
+	font-size: 12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+.yellowrow{
+	background-color: #FFCD44;
+}
+
+.overspeedrow{
+	background-color: #FB6F6F;
+}
+
+.fwrow{
+	background-color: #B3FDB3;
+}
+
+.txtnowidth {
+	font-family: Verdana;
+	font-size: 11px;
+	color: #000000;
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+}
+
+A, TD, TH, LI{
+	font-family: verdana;
+	font-size: 11px;
+}
+A, TH{
+	font-weight: bold;
+}
+TH{
+	vertical-align: top;
+	text-align: left;
+}
+A {	
+	color: #FFFFFF;
+	text-decoration: none;
+}
+TD, TH, LI{
+	padding: 2px;
+	
+}

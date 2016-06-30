@@ -1,0 +1,101 @@
+.button1{
+
+ background-color:#0f5f9e;
+color:white;
+text-decaration:bold;
+}
+.bluedark_strip {
+	height:1px;
+	background-color:#99ff00;
+}
+#container_text {
+	height:95px;
+	margin-left:95px;
+	padding-top:6px;
+}
+
+
+.reportSearchBorder {
+	border-top: 1px solid #FFCD44; 
+	border-right: 1px solid #FFCD44; 
+	border-bottom: 1px solid #FFCD44; 
+	border-left: 1px solid #FFCD44;
+}
+.txtbig{
+	width: 155px;
+}
+
+.txtbig, .txtminbig {
+	font-family: Verdana;
+	font-size: 11px;
+	color: #000000;
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+}
+.txtmed {
+	font-family: Verdana;
+	font-size: 11px;
+	color: #000000;
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	width: 135px;
+}
+	.txtveryverybig {
+	font-family: Verdana;
+	font-size: 11px;
+	color: #000000;
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	width: 310px;
+}
+.reportSearchBorder {
+	border-top: 1px solid #FFCD44; 
+	border-right: 1px solid #FFCD44; 
+	border-bottom: 1px solid #FFCD44; 
+	border-left: 1px solid #FFCD44;
+}
+ul ul {
+	display: none;
+}
+
+	 ul li:hover > ul {
+		display: block;
+	}
+ul {
+	background: #efefef; 
+	background: linear-gradient(top, #efefef 0%, #bbbbbb 100%);  
+	background: -moz-linear-gradient(top, #efefef 0%, #bbbbbb 100%); 
+	background: -webkit-linear-gradient(top, #efefef 0%,#bbbbbb 100%); 
+	box-shadow: 0px 0px 9px rgba(0,0,0,0.15);
+	padding: 0 20px;
+	border-radius: 10px;  
+	list-style: none;
+	position: relative;
+	display: inline-table;
+}
+	 ul:after {
+		content: ""; clear: both; display: block;
+	}
+	 ul li {
+	float: left;
+}
+	 ul li:hover {
+		background: #4b545f;
+		background: linear-gradient(top, #4f5964 0%, #5f6975 40%);
+		background: -moz-linear-gradient(top, #4f5964 0%, #5f6975 40%);
+		background: -webkit-linear-gradient(top, #4f5964 0%,#5f6975 40%);
+	}
+		nav ul li:hover a {
+			color: #fff;
+		}
+	
+	 ul li a {
+		display: block; padding: 25px 40px;
+		color: #757575; text-decoration: none;
+	}
